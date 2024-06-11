@@ -9,6 +9,7 @@
 | RE_RSZ | 010 Editor Binary Template for editing RE Engine game files  | [GitHub](https://github.com/alphazolam/RE_RSZ)
 | RE Mesh Editor | Blender addon for importing and exporting RE Engine mesh and mdf2 files natively in Blender. No Noesis required | [GitHub](https://github.com/NSACloud/RE-Mesh-Editor)
 | RE Chain Editor | Blender addon for creating and editing RE Engine physics bone (chain) files | [GitHub](https://github.com/NSACloud/RE-Chain-Editor)
+| RE Toolbox | Companion Blender addon for RE Mesh Importer. Includes set of tools to make editing RE Engine meshes easier | [GitHub](https://github.com/NSACloud/RE-Toolbox)
 | RE MSG Converter | Able to convert .msg file into txt / json / csv format and back. | [GitHub](https://github.com/dtlnor/REMSG_Converter)
 | RE MSG | Tools for editing / researching in any .msg file (Text file) for RE Engine. | [GitHub](https://github.com/dtlnor/RE_MSG)
 | MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Forked Version for RE4](https://github.com/SilverEzredes/MDF-Manager_RE4R)
