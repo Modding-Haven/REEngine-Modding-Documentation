@@ -11,6 +11,7 @@
 | RE Chain Editor | Blender addon for creating and editing RE Engine physics bone (chain) files | [GitHub](https://github.com/NSACloud/RE-Chain-Editor)
 | RE MSG Converter | Able to convert .msg file into txt / json / csv format and back. | [GitHub](https://github.com/dtlnor/REMSG_Converter)
 | RE MSG | Tools for editing / researching in any .msg file (Text file) for RE Engine. | [GitHub](https://github.com/dtlnor/RE_MSG)
+| MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Forked Version for RE4](https://github.com/SilverEzredes/MDF-Manager_RE4R)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
