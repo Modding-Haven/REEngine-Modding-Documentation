@@ -26,3 +26,4 @@
 | Name | Description | Link |
 | --------  | ------------------- | --------------------- |
 | DD2 Editor | A tool to edit various user data files in the game assets | [NexusMods](https://www.nexusmods.com/dragonsdogma2/mods/522)
+| DD2 EFX Template | Dragon's Dogma 2 EFX Template for 010 Editor | [GitHub](https://github.com/ZippoIG/DD2-EFX-Template)
