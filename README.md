@@ -14,6 +14,7 @@
 | RE MSG | Tools for editing / researching in any .msg file (Text file) for RE Engine. | [GitHub](https://github.com/dtlnor/RE_MSG)
 | MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Forked Version for RE4](https://github.com/SilverEzredes/MDF-Manager_RE4R)
 | RszTool | Resource editor/creator. Currently supports `.user`, `.pfb` and `.scn` files  | [GitHub](https://github.com/czastack/RszTool)
+| RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
