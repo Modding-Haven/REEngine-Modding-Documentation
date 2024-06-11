@@ -20,3 +20,8 @@
 | EMV Engine | | [GitHub](https://github.com/alphazolam/EMV-Engine)
 | MMDK | REFramework Moveset Mod Development Kit for Street Fighter 6  | [GitHub](https://github.com/alphazolam/MMDK)
 | RE-BHVT-Editor | Behavior Tree/Finite State Machine editor for RE Engine games  | [GitHub](https://github.com/praydog/RE-BHVT-Editor)
+
+### Dragon's Dogma 2 Tools:
+| Name | Description | Link |
+| --------  | ------------------- | --------------------- |
+| DD2 Editor | A tool to edit various user data files in the game assets | [NexusMods](https://www.nexusmods.com/dragonsdogma2/mods/522)
