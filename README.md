@@ -1,8 +1,9 @@
-# Welcome to the RE Engine Modding Wiki!
+# [Welcome to the RE Engine Modding Wiki!](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki)
 
 ### Table of Contents:
 > 1. [Installing Mods](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Installing-Mods)
 > 1. [Extracting Game Files](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Extracting-Game-Files)
+> 2. [Textures](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Textures)
 ***
 
 ### Tools:
