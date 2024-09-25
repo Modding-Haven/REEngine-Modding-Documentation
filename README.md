@@ -39,4 +39,4 @@
 | DD2 EFX Template | Dragon's Dogma 2 EFX Template for 010 Editor | [GitHub](https://github.com/ZippoIG/DD2-EFX-Template)
 ***
 ### Discord:
-If you want to contribute or need support join the [Modding Haven Discord](https://discord.gg/modding-haven-718224210270617702)
+[<img src="https://github.com/Modding-Haven/.github/blob/main/MHBranding/MH_Banner_1400x200.png">](https://discord.gg/modding-haven-718224210270617702)
