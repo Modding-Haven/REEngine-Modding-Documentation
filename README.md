@@ -5,6 +5,7 @@
 > 1. [Packaging Mods](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Packaging-Mods)
 > 1. [Extracting Game Files](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Extracting-Game-Files)
 > 1. [Textures](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Textures)
+> 1. [ID Lookups](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/ID-Lookups)
 ***
 
 ### Tools:
