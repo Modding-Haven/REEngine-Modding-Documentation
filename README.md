@@ -40,6 +40,7 @@
 | DD2 Editor | A tool to edit various user data files in the game assets | [Nexus Mods](https://www.nexusmods.com/dragonsdogma2/mods/522)
 | DD2 EFX Template | Dragon's Dogma 2 EFX Template for 010 Editor | [GitHub](https://github.com/ZippoIG/DD2-EFX-Template)
 | Skill Maker | A REFramework mod to create new skills and enemy skills in Dragon's Dogma 2 | [GitHub](https://github.com/alphazolam/Skill-Maker) / [Nexus Mods](https://www.nexusmods.com/dragonsdogma2/mods/691)
+| Content Editor | DD2 ingame content editor | [GitHub](https://github.com/kagenocookie/dd2-content-editor) / [Nexus Mods](https://www.nexusmods.com/dragonsdogma2/mods/1031)
 
 ### Credits:
 [abarkera4](https://github.com/abarkera4) | [Synthlight](https://github.com/Synthlight)
