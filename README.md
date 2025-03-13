@@ -43,6 +43,11 @@
 | Skill Maker | A REFramework mod to create new skills and enemy skills in Dragon's Dogma 2 | [GitHub](https://github.com/alphazolam/Skill-Maker) / [Nexus Mods](https://www.nexusmods.com/dragonsdogma2/mods/691)
 | Content Editor | DD2 ingame content editor | [GitHub](https://github.com/kagenocookie/dd2-content-editor) / [Nexus Mods](https://www.nexusmods.com/dragonsdogma2/mods/1031)
 
+### Monster Hunter Wilds Tools:
+| Name | Description | Link |
+| --------  | ------------------- | --------------------- |
+| MDF-XL | A powerful runtime material editor with a robust preset system for customizing armor and weapons. | [GitHub](https://github.com/SilverEzredes/MDF-XL) / [Nexus Mods](https://www.nexusmods.com/monsterhunterwilds/mods/125)
+
 ### Credits:
 [abarkera4](https://github.com/abarkera4) | [Synthlight](https://github.com/Synthlight)
 
