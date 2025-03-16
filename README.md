@@ -46,7 +46,7 @@
 ### Monster Hunter Wilds Tools:
 | Name | Description | Link |
 | --------  | ------------------- | --------------------- |
-| MDF-XL | A powerful runtime material editor with a robust preset system for customizing armor and weapons. | [GitHub](https://github.com/SilverEzredes/MDF-XL) / [Nexus Mods](https://www.nexusmods.com/monsterhunterwilds/mods/125)
+| MDFXL | A powerful runtime material editor with a robust preset system for customizing armor and weapons. | [GitHub](https://github.com/SilverEzredes/MDF-XL) / [Nexus Mods](https://www.nexusmods.com/monsterhunterwilds/mods/125)
 
 ### Credits:
 [abarkera4](https://github.com/abarkera4) | [Synthlight](https://github.com/Synthlight)
