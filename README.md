@@ -27,6 +27,7 @@
 | MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Up-to-date Version](https://github.com/SilverEzredes/MDF-Manager_RE4R)
 | RszTool | Resource editor/creator. Currently supports `.user`, `.pfb` and `.scn` files  | [GitHub](https://github.com/czastack/RszTool)
 | RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
+| Reach for Godot | Godot-based visual scene and rsz data editor for RE Engine games  | [GitHub](https://github.com/kagenocookie/ReachForGodot)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
